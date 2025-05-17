@@ -20,4 +20,8 @@ Atividade Vivencial da cadeira de Computação Gráfica (CG).
 
 ---
 
+# Nomes 
+
+- Lucas Kaito Murakami
+
 Este projeto é um visualizador de objetos 3D com suporte a transformações básicas e visualização em modo wireframe.
