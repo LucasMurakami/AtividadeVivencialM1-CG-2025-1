@@ -1,21 +1,23 @@
-# M1 - VIvencial
+# M1 - Vivencial
 
-Atividade Vivencial da cadeira de CG
+Atividade Vivencial da cadeira de Computação Gráfica (CG).
 
 ## Funcionalidades
 
-==== 3D Object Viewer - Controles ====
-ESC - Exit application
-TAB - Switch between objects
+### Modos de Transformação
+- **1**: Modo de rotação
+- **2**: Modo de translação
+- **3**: Modo de escala
+- **4**: Alternar modo wireframe (visualização em arame)
 
-== Modos ==
-1 - Rotation mode
-2 - Translation mode
-3 - Scale mode
-4 - Toggle uniform/non-uniform scaling
+### Controles
+- **ESC**: Sair da aplicação
+- **TAB**: Alternar entre objetos
+- **W/S** ou **Setas Cima/Baixo**: Movimento/rotação/escala no eixo Y
+- **A/D** ou **Setas Esquerda/Direita**: Movimento/rotação/escala no eixo X
+- **Q/E**: Movimento/rotação/escala no eixo Z
+- **H**: Exibir ajuda
 
-== Controles ==
-W/S or Up/Down - Y-axis movement/rotation/scale
-A/D or Left/Right - X-axis movement/rotation/scale
-Q/E - Z-axis movement/rotation/scale
-===============================
+---
+
+Este projeto é um visualizador de objetos 3D com suporte a transformações básicas e visualização em modo wireframe.
